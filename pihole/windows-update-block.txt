@@ -1,0 +1,16 @@
+#Title: Windows 10 Update Blocklist
+#Description: Endpoints to disable windows 10 updates
+#Author: JamesHannon
+#License: MIT
+#Home: https://www.jameshannon.co.uk
+#Updated: 6 Nov 2018
+#LatestVersion 0.0.1
+#---------------------
+windowsupdate.microsoft.com
+update.microsoft.com
+windowsupdate.com
+download.windowsupdate.com
+download.microsoft.com
+wustat.windows.com
+ntservicepack.microsoft.com
+stats.microsoft.com

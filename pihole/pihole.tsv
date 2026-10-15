@@ -1,0 +1,13 @@
+filename	url
+stevenblack-hosts.txt	https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+adaway-hosts.txt	https://adaway.org/hosts.txt
+disconnect-simple-tracking.txt	https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
+easylist.txt	https://easylist.to/easylist/easylist.txt
+oisd-big.txt	https://big.oisd.nl/
+developerdan-ads-and-tracking-extended.txt	https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
+developerdan-amp-hosts-extended.txt	https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt
+windows-update-block.txt	https://raw.githubusercontent.com/JamesHannon/pi-hole-windows-update/refs/heads/master/windows_update_block.txt
+hagezi-popupads.txt	https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/popupads.txt
+hagezi-pro-plus.txt	https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt
+ps5-dns-block.txt	https://raw.githubusercontent.com/cjrb007/ps5-dns-block/refs/heads/main/ps5-block
+ps-dns-block.txt	https://raw.githubusercontent.com/Misl3d/PS-dns-block/refs/heads/main/ps-block
